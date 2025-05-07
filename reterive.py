@@ -6,7 +6,7 @@ from response import token
 
 
 Recipe_qdrant = QdrantClient(
-    url="<your_url>", 
+    url="<your_qdrant_url>", 
     api_key="<your_api_key>",
 )
 
